@@ -1,0 +1,12 @@
+| ------------Methods---------------------- | ---------- Objects------------- | ------Arguments------|
+1.     evaluate_student (university.h)             university_array[3]          reference of student3
+2.     get_GPA (student.h)                              student3                         -
+3.     get_GRE (student.h)                              student3                         -   
+4.     get_TOEFL (student.h)                            student3                         -
+5.     get_name (student.h)                             student3                         -
+6.     set_num_of_application (student.h)               student3               get_num_of_application()
+7.     get_num_of_application (student.h)               student3                         -
+8.     ~Student (student.h)                             student4                         -
+9.     ~Student (student.h)                             student3                         -
+10.    ~Student (student.h)                             student2                         -
+12.    ~Student (student.h)                             student1                         -
