@@ -37,7 +37,7 @@ void Computer::operator+(const CPU& newCPU)
     }
 }
 
-// operator overloadi for GPU
+// operator overload for GPU
 void Computer::operator+(const GPU& newGPU)
 {
     if (this->attachedGPU != NULL)
